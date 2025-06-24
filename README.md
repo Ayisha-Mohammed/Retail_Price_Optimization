@@ -52,6 +52,7 @@ This project aims to predict the **Average Retail Price of Avocados** using hist
  -clone the repo 
  -create a virtual environment 
  -install dependencies > requirements.txt
+ -run the notebook
 
 
 
