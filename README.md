@@ -7,7 +7,7 @@ This project aims to predict the **Average Retail Price of Avocados** using hist
 
 - Source: -[Hass Avocado Board (via Kaggle)](https://www.kaggle.com/datasets/neuromusic/avocado-prices)  # datset_source
 - Features Include:
-  - 'Total Volume', 'Small Bags', 'Large Bags', 'XLarge Bags', individual PLU codes (4046', '4225', '4770')
+  - 'Total Volume', 'Small Bags', 'Large Bags', 'XLarge Bags', individual PLU codes ('4046', '4225', '4770')
   - 'type': organic/conventional
   - 'region'
   - 'Date'
